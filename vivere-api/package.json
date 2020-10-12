@@ -1,0 +1,15 @@
+{
+  "name": "vivere-reast-api",
+  "version": "1.0.0",
+  "description": "Vivere Rest API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rian firandika",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.3"
+  }
+}
